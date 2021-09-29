@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NH-24
+- 👀 I’m interested in Cooking,travelling.
+- 🌱 I’m currently learning Web Scraping,API.
+- 💞️ I’m looking to collaborate on data Science ,ETL Field.
+- 📫 YOu can reach me through LinkedIn.
